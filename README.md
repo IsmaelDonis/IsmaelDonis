@@ -11,10 +11,8 @@
 
 
 <h3>Mis estadísticas</h3>
+
 [![IsmaelDonis's github stats](https://github-readme-stats.vercel.app/api?username=IsmaelDonis&show_icons=true&theme=default)](https://github.com/IsmaelDonis/)
-
-<br><br><br><br><br><br><br><br><br><br>
-
 
 ------
 
